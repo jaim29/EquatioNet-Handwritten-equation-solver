@@ -1,0 +1,7 @@
+#Videos 
+*.mp4
+*.mov
+
+#Irrelevant models
+/model.json
+/model.h5
